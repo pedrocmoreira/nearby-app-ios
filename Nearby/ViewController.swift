@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  Nearby
 //
-//  Created by Pedro  Moreira on 30/03/25.
+//  Created by Pedro Moreira on 30/03/25.
 //
 
 import UIKit

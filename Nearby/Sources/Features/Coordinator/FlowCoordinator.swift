@@ -16,7 +16,7 @@ class FlowCoordinator{
     
     func start() -> UINavigationController? {
         let contentView = SplashView()
-        let startViewController = SplashViewController(contentView: SplashView)
+        let startViewController = SplashViewController(contentView: contentView)
         self.navigationController = UINavigationController(rootViewController: startViewController)
         
         return navigationController
